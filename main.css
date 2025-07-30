@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+
+}
+
+.container {
+    margin: 80px auto;
+    max-width: 640px;
+    width: 100%;
+}
+
+form {
+    margin-top: 30px;
+}
+
+input, button {
+    display: block;
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: blue;
+    color:#fff;
+}
+
+#mensagem {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
